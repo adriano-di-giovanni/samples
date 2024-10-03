@@ -1,0 +1,2 @@
+export const KILOGRAM_TO_POUND = 2.20462;
+export const POUND_TO_KILOGRAM = 0.453592;
